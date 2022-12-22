@@ -809,3 +809,6 @@ MigrationBackup/
 .ionide/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,python,ruby,pycharm,webstorm,rubymine,visualstudiocode,visualstudio
+
+*_ignore.py
+*_ignore.json
